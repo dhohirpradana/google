@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261730817153",
+    "firebase_url": "https://login-faef2.firebaseio.com",
+    "project_id": "login-faef2",
+    "storage_bucket": "login-faef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261730817153:android:676eda111892861c2d6980",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261730817153-o96lu4u0jvi0eek2kavu7at07m72cre5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_in_flutter",
+            "certificate_hash": "0fafa09f3c72e7f36e40364d8120a7647b188856"
+          }
+        },
+        {
+          "client_id": "261730817153-kenuk4ctnf8b9d6l5r85lf44hj7kfmqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkUKhFoh0bqI_IoxZBN7or8w-DWCEec8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261730817153-kenuk4ctnf8b9d6l5r85lf44hj7kfmqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
